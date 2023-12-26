@@ -1,0 +1,34 @@
+﻿<Window x:Class="EquipmentsAccounting.window.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EquipmentsAccounting.window"
+        mc:Ignorable="d"
+        x:Name="RootWindow"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="760" Width="1226">
+
+    
+
+    <TabControl>
+
+        <TabItem Header="Обоурдование" Selector.IsSelected="True">
+            <Frame x:Name="EquipmentsInfoFrame"/>
+        </TabItem>
+        
+        <TabItem Header="Склад">
+            <Frame x:Name="StockFrame"/>
+        </TabItem>
+        
+        <TabItem Header="Сотрудники">
+            <Frame x:Name="EmployeesInfoFrame"/>
+        </TabItem>
+
+        <TabItem Header="Обслуживание">
+            <Frame x:Name="EquipmentsMaintenanceFrame"/>
+        </TabItem>
+
+    </TabControl>
+
+</Window>
