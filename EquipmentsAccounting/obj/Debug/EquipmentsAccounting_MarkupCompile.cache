@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\
 EquipmentsAccounting
 none
 false
 DEBUG;TRACE
-C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\App.xaml
-17-992815976
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\App.xaml
+18-1541124191
 
-32-1472428263
-331857714926
-views\AddComputerPage.xaml;views\AddMonitorOrPronterPage.xaml;views\AddOtherEqupmentsPage.xaml;views\DataPage.xaml;views\EmployeesPage.xaml;views\EquipmentsMaintenancePage.xaml;views\StockPage.xaml;windows\AddEquipmentWindow.xaml;windows\CalendarRangeWindow.xaml;windows\EditingEquipment.xaml;windows\EquipmentMaintenanceWindow.xaml;windows\HandOverWindow.xaml;windows\IssueEquipmentWindow.xaml;windows\LoginWindow.xaml;windows\MainWindow.xaml;windows\WriteOffEquipmentWindow.xaml;windows\WriteOfFromEmployeeWindow.xaml;
+34-1125610959
+331219243998
+views\AddComputerPage.xaml;views\AddMonitorOrPronterPage.xaml;views\AddOtherEqupmentsPage.xaml;views\DataPage.xaml;views\EmployeesPage.xaml;views\EquipmentsMaintenancePage.xaml;views\StockPage.xaml;windows\AddEquipmentWindow.xaml;windows\CalendarRangeWindow.xaml;windows\EditingEquipment.xaml;windows\EquipmentMaintenanceWindow.xaml;windows\HandOverWindow.xaml;windows\IssueEquipmentWindow.xaml;windows\LoginWindow.xaml;windows\MainWindow.xaml;windows\ReportSettingWindow.xaml;windows\WriteOffEquipmentWindow.xaml;windows\WriteOfFromEmployeeWindow.xaml;
 
-False
+True
 
