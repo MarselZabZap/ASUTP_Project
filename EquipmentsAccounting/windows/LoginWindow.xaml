@@ -1,0 +1,90 @@
+﻿<Window x:Class="EquipmentsAccounting.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EquipmentsAccounting"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        SizeToContent="WidthAndHeight">
+
+    <Grid Margin="40,0,40,40">
+
+
+
+        <WrapPanel Orientation="Vertical"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,10">
+            
+            <Image Source="E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\img\account_icon.png"
+                   Width="120"
+                   Margin="0,35,0,25"/>
+
+            <Label Content="Логин"
+                   FontSize="20"
+                   FontWeight="Bold"/>
+
+            <Border x:Name="LoginBorder"
+                    CornerRadius="5"
+                    BorderThickness="1"
+                    BorderBrush="Gray"
+                    Padding="2">
+
+                <TextBox x:Name="LoginTextBox"
+                     Width="240"
+                     FontSize="20"
+                     Height="30"
+                     BorderThickness="0"/>
+
+            </Border>
+
+            <Label x:Name="ErrorLoginLabel" 
+                   Content="Label"
+                   Foreground="#FFD00E0E" 
+                   Visibility="Hidden"/>
+            
+
+            <Label Content="Пароль"
+                   Margin="0,5,0,0"
+                   FontSize="20"
+                   FontWeight="Bold"/>
+
+            <Border x:Name="PasswordBorder"
+                    CornerRadius="5"
+                    BorderThickness="1"
+                    BorderBrush="Gray"
+                    Padding="2">
+
+                <PasswordBox x:Name="PasswordTextBox"
+                         Width="240" 
+                         FontSize="14" 
+                         Height="30"
+                         BorderThickness="0"/>
+                
+            </Border>
+
+            <Label x:Name="ErrorPasswordLabel"
+                   Content="Label"
+                   Foreground="#FFD00E0E"
+                   Visibility="Hidden"/>
+
+
+            <Button x:Name="SingInButton"
+                    Content="Войти"
+                    FontSize="20"
+                    Click="Button_Click"
+                    Margin="50,30,50,0"
+                    Padding="3,3,3,5">
+
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="12"/>
+                    </Style>
+                </Button.Resources>
+
+            </Button>
+
+        </WrapPanel>
+
+    </Grid>
+</Window>

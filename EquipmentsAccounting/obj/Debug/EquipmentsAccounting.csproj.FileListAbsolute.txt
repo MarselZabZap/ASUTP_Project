@@ -1,0 +1,728 @@
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe.config
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.pdb
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.AssemblyReference.cache
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\App.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.cache
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.lref
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.g.resources
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.Properties.Resources.resources
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.GenerateResource.cache
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.exe
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.pdb
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\Npgsql.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Buffers.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Memory.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Text.Json.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Threading.Channels.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.ValueTuple.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\Npgsql.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Buffers.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Memory.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Text.Json.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Threading.Channels.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\bin\Debug\System.ValueTuple.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\window\LoginWindow.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\window\MainWindow.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\window\LoginWindow.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\window\MainWindow.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CopyComplete
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe.config
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.pdb
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Npgsql.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Buffers.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Memory.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Json.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Channels.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.ValueTuple.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Npgsql.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Buffers.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Memory.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Json.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Channels.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.ValueTuple.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.AssemblyReference.cache
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\App.g.cs
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.cache
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.lref
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.g.resources
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.Properties.Resources.resources
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.GenerateResource.cache
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CopyComplete
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.exe
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.pdb
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\DataPage.g.cs
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\LoginWindow.g.cs
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\MainWindow.g.cs
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\DataPage.baml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\LoginWindow.baml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\MainWindow.baml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EmployeesPage.g.cs
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EmployeesPage.baml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\StockPage.g.cs
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\StockPage.baml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\IssueEquipmentWindow.g.cs
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\IssueEquipmentWindow.baml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOfEquipmentsWindow.g.cs
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOfEquipmentsWindow.baml
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\HandOverWindow.g.cs
+C:\Users\Revolution\Desktop\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\HandOverWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe.config
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.pdb
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Npgsql.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Buffers.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Memory.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Net.Http.Formatting.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Json.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Channels.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.ValueTuple.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Npgsql.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Buffers.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Memory.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Net.Http.Formatting.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Json.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Channels.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.ValueTuple.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.AssemblyReference.cache
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\DataPage.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EmployeesPage.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\StockPage.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EditingEquipment.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\HandOverWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\IssueEquipmentWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\LoginWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\MainWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\App.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.cache
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.lref
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\DataPage.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EmployeesPage.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\StockPage.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\HandOverWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\IssueEquipmentWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\LoginWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\MainWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EditingEquipment.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.g.resources
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.Properties.Resources.resources
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.GenerateResource.cache
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CoreCompileInputs.cache
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CopyComplete
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.exe
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.pdb
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\AddEquipmentWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\AddEquipmentWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddComputerPage.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddComputerPage.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddOtherEqupmentsPage.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddOtherEqupmentsPage.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddMonitorOrPronterPage.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddMonitorOrPronterPage.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EquipmentsMaintenancePage.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EquipmentMaintenanceWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EquipmentsMaintenancePage.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EquipmentMaintenanceWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe.config
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.pdb
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Npgsql.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Buffers.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Memory.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Net.Http.Formatting.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Json.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Channels.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.ValueTuple.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Npgsql.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Buffers.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Memory.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Net.Http.Formatting.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Json.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Channels.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.ValueTuple.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.AssemblyReference.cache
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.SuggestedBindingRedirects.cache
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddComputerPage.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddMonitorOrPronterPage.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddOtherEqupmentsPage.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\DataPage.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EmployeesPage.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EquipmentsMaintenancePage.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\StockPage.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\AddEquipmentWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EditingEquipment.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EquipmentMaintenanceWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\HandOverWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\IssueEquipmentWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\LoginWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\MainWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\App.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.cache
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.lref
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddComputerPage.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddMonitorOrPronterPage.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddOtherEqupmentsPage.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\DataPage.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EmployeesPage.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EquipmentsMaintenancePage.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\StockPage.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\AddEquipmentWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EditingEquipment.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EquipmentMaintenanceWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\HandOverWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\IssueEquipmentWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\LoginWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\MainWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.g.resources
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.Properties.Resources.resources
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.GenerateResource.cache
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CoreCompileInputs.cache
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.exe
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.pdb
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOfFromEmployeeWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOfFromEmployeeWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOffEquipmentWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOffEquipmentWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOffEquipmentWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOfFromEmployeeWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOffEquipmentWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOfFromEmployeeWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\CalendarRangeWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\CalendarRangeWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\CalendarRangeWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\CalendarRangeWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CopyComplete
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe.config
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.pdb
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Npgsql.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Channels.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Npgsql.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Channels.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddComputerPage.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddMonitorOrPronterPage.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddOtherEqupmentsPage.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\DataPage.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EmployeesPage.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EquipmentsMaintenancePage.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\StockPage.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\AddEquipmentWindow.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\CalendarRangeWindow.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EditingEquipment.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EquipmentMaintenanceWindow.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\HandOverWindow.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\IssueEquipmentWindow.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\LoginWindow.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOffEquipmentWindow.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOfFromEmployeeWindow.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.cache
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.lref
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddComputerPage.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddMonitorOrPronterPage.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddOtherEqupmentsPage.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\DataPage.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EmployeesPage.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EquipmentsMaintenancePage.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\StockPage.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\AddEquipmentWindow.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\CalendarRangeWindow.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EditingEquipment.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EquipmentMaintenanceWindow.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\HandOverWindow.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\IssueEquipmentWindow.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\LoginWindow.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\MainWindow.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOffEquipmentWindow.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOfFromEmployeeWindow.baml
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.g.resources
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.Properties.Resources.resources
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CopyComplete
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.exe
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.pdb
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\ReportSettingWindow.g.cs
+C:\Users\Admin\Desktop\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\ReportSettingWindow.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe.config
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.pdb
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Npgsql.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Buffers.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Memory.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Json.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Channels.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.ValueTuple.dll
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\Npgsql.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Buffers.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Memory.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Text.Json.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Channels.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\bin\Debug\System.ValueTuple.xml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.AssemblyReference.cache
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddComputerPage.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddMonitorOrPronterPage.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddOtherEqupmentsPage.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\DataPage.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EmployeesPage.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EquipmentsMaintenancePage.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\StockPage.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\AddEquipmentWindow.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\CalendarRangeWindow.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EditingEquipment.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EquipmentMaintenanceWindow.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\HandOverWindow.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\IssueEquipmentWindow.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\LoginWindow.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\MainWindow.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\ReportSettingWindow.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOffEquipmentWindow.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOfFromEmployeeWindow.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\App.g.cs
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.cache
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.lref
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddComputerPage.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddMonitorOrPronterPage.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\AddOtherEqupmentsPage.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\DataPage.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EmployeesPage.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\EquipmentsMaintenancePage.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\views\StockPage.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\AddEquipmentWindow.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\CalendarRangeWindow.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EditingEquipment.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\EquipmentMaintenanceWindow.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\HandOverWindow.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\IssueEquipmentWindow.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\LoginWindow.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\MainWindow.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\ReportSettingWindow.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOffEquipmentWindow.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\windows\WriteOfFromEmployeeWindow.baml
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.g.resources
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.Properties.Resources.resources
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.GenerateResource.cache
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CopyComplete
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.exe
+C:\Users\Revolution\Desktop\EquipmentsAccounting(Desktop)\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.pdb
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.AssemblyReference.cache
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.exe.config
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\views\AddComputerPage.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\views\AddMonitorOrPronterPage.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\views\AddOtherEqupmentsPage.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\views\DataPage.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\views\EmployeesPage.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\views\EquipmentsMaintenancePage.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\views\StockPage.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\AddEquipmentWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\CalendarRangeWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\EditingEquipment.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\EquipmentMaintenanceWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\HandOverWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\IssueEquipmentWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\LoginWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\MainWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\ReportSettingWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\WriteOffEquipmentWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\WriteOfFromEmployeeWindow.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\App.g.cs
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.cache
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.lref
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.exe
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.pdb
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe.config
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.pdb
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\netstandard.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.AppContext.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Collections.Concurrent.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Collections.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Collections.NonGeneric.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Collections.Specialized.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.ComponentModel.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.ComponentModel.Primitives.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Console.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Data.Common.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Diagnostics.Contracts.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Diagnostics.Debug.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Diagnostics.Process.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Diagnostics.Tools.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Diagnostics.Tracing.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Drawing.Primitives.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Dynamic.Runtime.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Globalization.Calendars.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Globalization.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Globalization.Extensions.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.IO.Compression.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.IO.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.IO.FileSystem.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.IO.IsolatedStorage.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.IO.Pipes.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Linq.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Linq.Expressions.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Linq.Parallel.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Linq.Queryable.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Net.Http.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Net.NameResolution.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Net.NetworkInformation.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Net.Ping.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Net.Primitives.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Net.Requests.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Net.Security.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Net.Sockets.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Net.WebSockets.Client.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Net.WebSockets.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.ObjectModel.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Reflection.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Reflection.Extensions.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Reflection.Primitives.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Resources.Reader.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Resources.ResourceManager.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Resources.Writer.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Runtime.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Runtime.Extensions.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Runtime.Handles.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Runtime.InteropServices.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Runtime.Numerics.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Security.Claims.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Security.Principal.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Security.SecureString.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Text.Encoding.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Text.RegularExpressions.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Threading.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Threading.Overlapped.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Threading.Thread.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Threading.ThreadPool.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Threading.Timer.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Xml.ReaderWriter.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Xml.XDocument.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Xml.XmlDocument.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Xml.XmlSerializer.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Xml.XPath.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Npgsql.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Buffers.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Memory.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Net.Http.Formatting.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Text.Json.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Threading.Channels.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.ValueTuple.dll
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\Npgsql.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Buffers.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Memory.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Net.Http.Formatting.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Text.Json.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Threading.Channels.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\bin\Debug\System.ValueTuple.xml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\views\AddComputerPage.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\views\AddMonitorOrPronterPage.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\views\AddOtherEqupmentsPage.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\views\DataPage.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\views\EmployeesPage.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\views\EquipmentsMaintenancePage.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\views\StockPage.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\AddEquipmentWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\CalendarRangeWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\EditingEquipment.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\EquipmentMaintenanceWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\HandOverWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\IssueEquipmentWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\LoginWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\MainWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\ReportSettingWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\WriteOffEquipmentWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\windows\WriteOfFromEmployeeWindow.baml
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.g.resources
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.Properties.Resources.resources
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.GenerateResource.cache
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CoreCompileInputs.cache
+D:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Версия для теста у Полины\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CopyComplete
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe.config
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.exe
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\EquipmentsAccounting.pdb
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.Bson.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Npgsql.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Buffers.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Memory.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Net.Http.Formatting.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Text.Json.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Threading.Channels.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.ValueTuple.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.Bson.pdb
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Newtonsoft.Json.Bson.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Npgsql.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Buffers.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Collections.Immutable.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Memory.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Net.Http.Formatting.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Numerics.Vectors.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Text.Encodings.Web.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Text.Json.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Threading.Channels.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.ValueTuple.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.AssemblyReference.cache
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\views\AddComputerPage.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\views\AddMonitorOrPronterPage.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\views\AddOtherEqupmentsPage.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\views\DataPage.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\views\EmployeesPage.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\views\EquipmentsMaintenancePage.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\views\StockPage.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\AddEquipmentWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\CalendarRangeWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\EditingEquipment.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\EquipmentMaintenanceWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\HandOverWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\IssueEquipmentWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\LoginWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\MainWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\ReportSettingWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\WriteOffEquipmentWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\WriteOfFromEmployeeWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\App.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.cache
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\EquipmentsAccounting_MarkupCompile.lref
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\views\AddComputerPage.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\views\AddMonitorOrPronterPage.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\views\AddOtherEqupmentsPage.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\views\DataPage.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\views\EmployeesPage.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\views\EquipmentsMaintenancePage.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\views\StockPage.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\AddEquipmentWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\CalendarRangeWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\EditingEquipment.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\EquipmentMaintenanceWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\HandOverWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\IssueEquipmentWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\LoginWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\MainWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\ReportSettingWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\WriteOffEquipmentWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\WriteOfFromEmployeeWindow.baml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.g.resources
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.Properties.Resources.resources
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.GenerateResource.cache
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CoreCompileInputs.cache
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.csproj.CopyComplete
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.exe
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\EquipmentsAccounting.pdb
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\EPPlus.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\EPPlus.Interfaces.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\EPPlus.System.Drawing.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.ComponentModel.Annotations.dll
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\EPPlus.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
