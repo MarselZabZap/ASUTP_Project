@@ -1,21 +1,8 @@
 ﻿
 
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\views\AddComputerPage.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\views\AddMonitorOrPronterPage.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\views\AddOtherEqupmentsPage.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\views\DataPage.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\views\EmployeesPage.xaml;;
 FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\views\EquipmentsMaintenancePage.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\views\StockPage.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\AddEquipmentWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\CalendarRangeWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\EditingEquipment.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\EquipmentMaintenanceWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\HandOverWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\IssueEquipmentWindow.xaml;;
 FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\LoginWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\MainWindow.xaml;;
 FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\ReportSettingWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\WriteOffEquipmentWindow.xaml;;
+FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\StockTramsferWindow.xaml;;
 FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\WriteOfFromEmployeeWindow.xaml;;
 

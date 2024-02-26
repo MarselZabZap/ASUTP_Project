@@ -25,8 +25,8 @@ namespace EquipmentsAccounting.views
         }
 
         private void AddComputerButtonClick(object sender, RoutedEventArgs e)
-        {
-            if (SerialNumberTextBox.Text.Equals("") || CpuTextBox.Text.Equals("") || MotherboardTextBox.Text.Equals("") ||
+        {       // Условие не позволяющее добавить оборудование без серийного номер
+            if (/*SerialNumberTextBox.Text.Equals("") || */CpuTextBox.Text.Equals("") || MotherboardTextBox.Text.Equals("") ||
                 VideocardTextBox.Text.Equals("") || RamTextBox.Text.Equals("") || HddTextBox.Text.Equals("") || SSDTextBox.Text.Equals("") || OsTextBox.Text.Equals("") ||
                 IpTextBox.Text.Equals(""))
             {

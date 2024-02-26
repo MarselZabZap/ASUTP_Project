@@ -12,6 +12,7 @@ namespace EquipmentsAccounting.models
         public string dateIssue { get; set; }
         public string subschet { get; set; }
         public string eqName { get; set; }
+        public string serialNum { get; set; }  
         public string nomenNum { get; set; }
         public int requests { get; set; }
         public int released { get; set; }
@@ -23,12 +24,13 @@ namespace EquipmentsAccounting.models
         public string employeeName_inic { get; set; }
         public string employeeName_full { get; set; }
 
-        public IssueAct(int lociId, string dateIssue, string subschet, string eqName, string nomenNum, int requests, int released, int price, int sum, string manager_inic, string manager_full, string employeePosition, string employeeName_inic, string employeeName_full)
+        public IssueAct(int lociId, string dateIssue, string subschet, string eqName, string serialNum, string nomenNum, int requests, int released, int price, int sum, string manager_inic, string manager_full, string employeePosition, string employeeName_inic, string employeeName_full)
         {
             this.locId = lociId;
             this.dateIssue = dateIssue;
             this.subschet = subschet;
             this.eqName = eqName;
+            this.serialNum = serialNum;
             this.nomenNum = nomenNum;
             this.requests = requests;
             this.released = released;

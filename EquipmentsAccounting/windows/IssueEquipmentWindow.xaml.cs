@@ -32,7 +32,7 @@ namespace EquipmentsAccounting.windows
             database = new Database();
             equipmentsDataTable = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
                                 WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null)
-                                    AND ""Статус"" = 'На складе'
+                                    AND ""Статус"" = 'На складе' AND ""Серийный номер"" != ''
                                 ORDER BY id", Singleton.MANAGER.Dep_id));
 
             EquipmentsDataGrid.DataContext = equipmentsDataTable.DefaultView;

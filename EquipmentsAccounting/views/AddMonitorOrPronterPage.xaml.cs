@@ -32,7 +32,8 @@ namespace EquipmentsAccounting.views
 
         private void AddComputerButtonClick(object sender, RoutedEventArgs e)
         {
-            if (SerialNumberTextBox.Text.Equals(""))
+            // Условие не позволяющее добавить оборудование без серийного номер
+            /*if (SerialNumberTextBox.Text.Equals(""))
             {
                 string messageBoxText = "Все поля должны быть заполненными!";
                 string messageBoxTitle = "Пустые поля";
@@ -53,7 +54,17 @@ namespace EquipmentsAccounting.views
                 timer.Tick += new EventHandler(timerTick);
                 timer.Interval = new TimeSpan(0, 0, 3);
                 timer.Start();
-            }
+            }*/
+            database.AddOtherEquipments(SerialNumberTextBox.Text, Singleton.GEN_EQUIPMENT.Id, Singleton.MANAGER.Dep_id);
+
+            Notification.Visibility = Visibility.Visible;
+
+            // Создание таймера
+            DispatcherTimer timer = new DispatcherTimer();
+            // Объявление метода
+            timer.Tick += new EventHandler(timerTick);
+            timer.Interval = new TimeSpan(0, 0, 3);
+            timer.Start();
         }
 
         private void timerTick(object sender, EventArgs e)

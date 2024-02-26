@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\App.xaml
-18-1541124191
+19361779166
 
-34-1125610959
+35-1288309660
 44-2017253172
-views\AddComputerPage.xaml;views\AddMonitorOrPronterPage.xaml;views\AddOtherEqupmentsPage.xaml;views\DataPage.xaml;views\EmployeesPage.xaml;views\EquipmentsMaintenancePage.xaml;views\StockPage.xaml;windows\AddEquipmentWindow.xaml;windows\CalendarRangeWindow.xaml;windows\EditingEquipment.xaml;windows\EquipmentMaintenanceWindow.xaml;windows\HandOverWindow.xaml;windows\IssueEquipmentWindow.xaml;windows\LoginWindow.xaml;windows\MainWindow.xaml;windows\ReportSettingWindow.xaml;windows\WriteOffEquipmentWindow.xaml;windows\WriteOfFromEmployeeWindow.xaml;
+views\AddComputerPage.xaml;views\AddMonitorOrPronterPage.xaml;views\AddOtherEqupmentsPage.xaml;views\DataPage.xaml;views\EmployeesPage.xaml;views\EquipmentsMaintenancePage.xaml;views\StockPage.xaml;windows\AddEquipmentWindow.xaml;windows\CalendarRangeWindow.xaml;windows\EditingEquipment.xaml;windows\EquipmentMaintenanceWindow.xaml;windows\HandOverWindow.xaml;windows\IssueEquipmentWindow.xaml;windows\LoginWindow.xaml;windows\MainWindow.xaml;windows\ReportSettingWindow.xaml;windows\StockTramsferWindow.xaml;windows\WriteOffEquipmentWindow.xaml;windows\WriteOfFromEmployeeWindow.xaml;
 
 True
 

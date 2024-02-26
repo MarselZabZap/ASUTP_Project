@@ -726,3 +726,5 @@ E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаже�
 E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\System.ComponentModel.Annotations.dll
 E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\EPPlus.xml
 E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\StockTramsferWindow.g.cs
+E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\obj\Debug\windows\StockTramsferWindow.baml

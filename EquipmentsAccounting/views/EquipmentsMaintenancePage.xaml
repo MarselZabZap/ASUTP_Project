@@ -85,7 +85,7 @@
                           Padding="5,2,5,3"
                           Click="DateTypeFilterChange"/>
 
-            <Image Source="E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\img\calendar_icon.png"
+            <Image Source="E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\img\calendar_icon.png"
                    x:Name="CalendarImage"
                    Width="35"
                    Margin="15,0,0,0"

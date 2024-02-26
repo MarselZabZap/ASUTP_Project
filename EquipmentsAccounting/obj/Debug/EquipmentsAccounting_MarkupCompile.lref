@@ -1,21 +1,22 @@
 ﻿
 
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\views\AddComputerPage.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\views\AddMonitorOrPronterPage.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\views\AddOtherEqupmentsPage.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\views\DataPage.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\views\EmployeesPage.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\views\EquipmentsMaintenancePage.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\views\StockPage.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\AddEquipmentWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\CalendarRangeWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\EditingEquipment.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\EquipmentMaintenanceWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\HandOverWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\IssueEquipmentWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\LoginWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\MainWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\ReportSettingWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\WriteOffEquipmentWindow.xaml;;
-FE:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\EquipmentsAccounting\windows\WriteOfFromEmployeeWindow.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\views\AddComputerPage.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\views\AddMonitorOrPronterPage.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\views\AddOtherEqupmentsPage.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\views\DataPage.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\views\EmployeesPage.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\views\EquipmentsMaintenancePage.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\views\StockPage.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\windows\AddEquipmentWindow.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\windows\CalendarRangeWindow.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\windows\EditingEquipment.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\windows\EquipmentMaintenanceWindow.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\windows\HandOverWindow.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\windows\IssueEquipmentWindow.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\windows\LoginWindow.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\windows\MainWindow.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\windows\ReportSettingWindow.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\windows\StockTramsferWindow.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\windows\WriteOffEquipmentWindow.xaml;;
+FC:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\windows\WriteOfFromEmployeeWindow.xaml;;
 

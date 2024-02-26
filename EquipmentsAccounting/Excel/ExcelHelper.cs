@@ -264,7 +264,7 @@ namespace EquipmentsAccounting.Excel
                 cell22.VerticalAlignment = XlVAlign.xlVAlignTop;
 
                 // Номенклатурный номер
-                worksheet.Cells[row + i, 7] = actList[i].nomenNum;
+                worksheet.Cells[row + i, 7] = actList[i].serialNum;
                 Range cell33 = worksheet.Cells[row + i, 7];
                 cell33.HorizontalAlignment = XlHAlign.xlHAlignRight;
                 cell33.VerticalAlignment = XlVAlign.xlVAlignTop;
@@ -431,7 +431,7 @@ namespace EquipmentsAccounting.Excel
                 //Наименование оборудования
                 worksheet.Cells[row + i, 2] = list[i].eqName;
                 // Номенклатурный номер
-                worksheet.Cells[row + i, 7] = list[i].nomenNum;
+                worksheet.Cells[row + i, 7] = list[i].serialNum; // ???
                 Range nomenNumCell = worksheet.Cells[row + i, 7];
                 nomenNumCell.HorizontalAlignment = XlHAlign.xlHAlignCenter;
                 nomenNumCell.VerticalAlignment = XlVAlign.xlVAlignTop;
@@ -560,7 +560,7 @@ namespace EquipmentsAccounting.Excel
                 // Наименование оборудования
                 worksheet.Cells[row + i, 4] = list[i].eqName;
                 // Номенклатурный номер
-                worksheet.Cells[row + i, 7] = list[i].nomenNum;
+                worksheet.Cells[row + i, 7] = list[i].serialNum;
                 Range nomenNumCell = worksheet.Cells[row + i, 7];
                 nomenNumCell.HorizontalAlignment = XlHAlign.xlHAlignCenter;
                 nomenNumCell.VerticalAlignment = XlVAlign.xlVAlignTop;

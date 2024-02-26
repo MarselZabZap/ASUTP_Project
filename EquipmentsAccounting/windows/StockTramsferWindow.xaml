@@ -1,0 +1,154 @@
+﻿<Window x:Class="EquipmentsAccounting.windows.StockTramsferWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EquipmentsAccounting.windows"
+        mc:Ignorable="d"
+        Title="StockTramsferWindow" Height="600" Width="800">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <WrapPanel Grid.Column="0"
+                   Orientation="Vertical">
+
+            <Label Content="Отправитель"
+                   FontSize="16"
+                   Margin="15,10,0,15"
+                   Padding="0"/>
+
+            <ComboBox x:Name="SenderComboBox"
+                      FontSize="14"
+                      Width="314"
+                      Height="25"
+                      HorizontalAlignment="Left"
+                      Margin="15,0,0,15"
+                      VerticalContentAlignment="Center"
+                      SelectionChanged="SenderIsChange"/>
+
+            <WrapPanel Orientation="Horizontal">
+
+                <WrapPanel Orientation="Vertical">
+                    <TextBlock Text="Фильтрация"
+                               VerticalAlignment="Center"
+                               FontSize="14"
+                               Margin="15,0,0,10"/>
+
+                    <TextBox x:Name="FilterTextBox"
+                             FontSize="14"
+                             Margin="15,0,0,20"
+                             HorizontalAlignment="Left"
+                             Width="200"
+                             Height="20"
+                             KeyUp="Filtration"/>
+                </WrapPanel>
+
+                <WrapPanel Orientation="Vertical"
+                           VerticalAlignment="Center">
+
+                    <RadioButton x:Name="TypeRadioButton"
+                                 IsChecked="True"
+                                 Content="По типу"
+                                 Margin="10,0,10,0"/>
+
+                    <RadioButton x:Name="CharsRadioButton"
+                                 Content="По характеристикам"
+                                 Margin="10,0,10,0"/>
+
+                    <RadioButton x:Name="SerialNumRadioButton"
+                                 Content="По серийному номеру"
+                                 Margin="10,0,10,0"/>
+                </WrapPanel>
+            </WrapPanel>
+
+            <DataGrid x:Name="SendersEquipmentDataGrid"
+                      ItemsSource="{Binding}"
+                      IsReadOnly="True"
+                      ColumnWidth="*"
+                      Margin="15,0,0,20">
+                <DataGrid.CellStyle>
+                    <Style TargetType="DataGridCell">
+                        <EventSetter Event="MouseDoubleClick" Handler="SendersEquipmentDataGridCellFocused"/>
+                    </Style>
+                </DataGrid.CellStyle>
+            </DataGrid>
+        </WrapPanel>
+
+        <WrapPanel Orientation="Horizontal"
+                   Grid.Column="1"
+                   VerticalAlignment="Bottom">
+            
+            <Image Source="E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\img\arrow_right_icon.png"
+                   Width="25"
+                   Height="25"
+                   Margin="0,0,0,230"/>
+        </WrapPanel>
+
+        <WrapPanel Orientation="Vertical"
+                   Grid.Column="2">
+
+            <Label Content="Получатель"
+                   FontSize="16"
+                   Margin="15,10,0,15"
+                   Padding="0"/>
+
+            <ComboBox x:Name="RecevierComboBox"
+                      FontSize="14"
+                      Width="314"
+                      Height="25"
+                      HorizontalAlignment="Left"
+                      Margin="15,0,0,20"
+                      VerticalContentAlignment="Center"
+                      SelectionChanged="RecevierIsChange"/>
+
+            <Image x:Name="ClearImage"
+                   Source="E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\img\clear_icon.png"
+                   Width="25"
+                   Height="25"
+                   HorizontalAlignment="Right"
+                   Margin="15,10,0,15"
+                   MouseDown="ClearRecevierTableClick"/>
+
+
+            <DataGrid x:Name="RecevierEquipmentDataGrid"
+                      ItemsSource="{Binding}"
+                      IsReadOnly="True"
+                      ColumnWidth="*"
+                      Margin="15,0,0,20">
+                <DataGrid.CellStyle>
+                    <Style TargetType="DataGridCell">
+                        <EventSetter Event="MouseDoubleClick" Handler="RecevierEquipmentDataGridCellFocused"/>
+                    </Style>
+                </DataGrid.CellStyle>
+            </DataGrid>
+        </WrapPanel>
+
+        <Button x:Name="ApplyButton"
+                Content="Передать"
+                Grid.Row="1"
+                Grid.Column="0"
+                HorizontalAlignment="Right"
+                FontSize="14"
+                Padding="15,5,15,5"
+                Margin="0,0,0,15"/>
+
+        <Button x:Name="CancelButton"
+                Grid.Row="1"
+                Grid.Column="2"
+                HorizontalAlignment="Left"
+                Content="Отмена"
+                FontSize="14"
+                Padding="15,5,15,5"
+                Margin="0,0,0,15"/>
+    </Grid>
+</Window>

@@ -196,6 +196,9 @@
     <Compile Include="windows\ReportSettingWindow.xaml.cs">
       <DependentUpon>ReportSettingWindow.xaml</DependentUpon>
     </Compile>
+    <Compile Include="windows\StockTramsferWindow.xaml.cs">
+      <DependentUpon>StockTramsferWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="windows\WriteOffEquipmentWindow.xaml.cs">
       <DependentUpon>WriteOffEquipmentWindow.xaml</DependentUpon>
     </Compile>
@@ -273,6 +276,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="windows\ReportSettingWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="windows\StockTramsferWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

@@ -106,7 +106,7 @@
                         IsEnabled="False"
                         Click="WriteOffButtonClick"/>
 
-                <Image Source="E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop)\img\reportSetting_Icon.png"
+                <Image Source="E:\!АСУТП Проект!\PROJECT\EquipmentsAccounting(Desktop) Отлаженая версия\img\reportSetting_Icon.png"
                        Width="40"
                        Margin="20,0,0,0"
                        MouseDown="ReportSettingIconMouseDown"

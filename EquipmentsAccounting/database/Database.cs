@@ -22,7 +22,7 @@ namespace EquipmentsAccounting.database
             using (NpgsqlConnection conn = GetConnection())
             {
                 conn.Open();
-                if (conn.State == System.Data.ConnectionState.Open)
+                if (conn.State == ConnectionState.Open)
                 {
                     Console.WriteLine("Connected");
                 }
@@ -367,15 +367,16 @@ namespace EquipmentsAccounting.database
                             reader.GetString(2),
                             reader.GetString(3),
                             reader.GetString(4),
-                            reader.GetInt32(5),
+                            reader.GetString(5),
                             reader.GetInt32(6),
                             reader.GetInt32(7),
                             reader.GetInt32(8),
-                            reader.GetString(9),
+                            reader.GetInt32(9),
                             reader.GetString(10),
                             reader.GetString(11),
                             reader.GetString(12),
-                            reader.GetString(13)
+                            reader.GetString(13),
+                            reader.GetString(14)
                         );
                 }
                 return act;
