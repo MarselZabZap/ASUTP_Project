@@ -242,7 +242,8 @@ namespace EquipmentsAccounting.Excel
             int row = 17;
 
             // Дата составления акта
-            worksheet.Cells[8, 2] = "22.11.2023";
+            DateTime currentDate = DateTime.Today;
+            worksheet.Cells[8, 2] = currentDate.ToString("dd.MM.yyyy");
 
             int sum = 0;
 
@@ -353,6 +354,9 @@ namespace EquipmentsAccounting.Excel
             //Выделение и вырезание
             //------------------------------------------------------------------------------------------
 
+            // Дата составления акта
+            DateTime currentDate = DateTime.Today;
+            worksheet.Cells[10, 2] = currentDate.ToString("dd.MM.yyyy");
 
             if (list.Count > 1)
             {
@@ -497,6 +501,9 @@ namespace EquipmentsAccounting.Excel
             //Выделение и вырезание
             //------------------------------------------------------------------------------------------
 
+            // Дата составления акта
+            DateTime currentDate = DateTime.Today;
+            worksheet.Cells[8, 2] = currentDate.ToString("dd.MM.yyyy");
 
             if (list.Count > 1)
             {

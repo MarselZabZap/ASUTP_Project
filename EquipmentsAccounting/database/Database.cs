@@ -382,5 +382,22 @@ namespace EquipmentsAccounting.database
                 return act;
             }
         }
+
+        public List<Departament> getDepartaments()
+        {
+            using (NpgsqlConnection conn = GetConnection())
+            {
+                List<Departament> departaments = new List<Departament>();
+                NpgsqlCommand cmd = new NpgsqlCommand("SELECT * FROM departments", conn);
+                conn.Open();
+                NpgsqlDataReader reader = cmd.ExecuteReader();
+                while(reader.Read())
+                {
+                    departaments.Add(new Departament(reader.GetInt32(0), reader.GetString(1)));
+                }
+
+                return departaments;
+            }
+        }
     }
 }

@@ -23,6 +23,7 @@
             <Grid.ColumnDefinitions>
 
                 <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition/>
 
             </Grid.ColumnDefinitions>
@@ -46,7 +47,8 @@
 
             <WrapPanel Grid.Column="1"
                        Orientation="Vertical"
-                       VerticalAlignment="Center">
+                       VerticalAlignment="Center"
+                       Margin="15,0,30,0">
 
                 <RadioButton x:Name="TypeRadioButton"
                              IsChecked="True"
@@ -61,6 +63,17 @@
                              Content="По серийному номеру"
                              VerticalAlignment="Center"/>
 
+            </WrapPanel>
+
+            <WrapPanel Orientation="Horizontal"
+                       Grid.Column="2"
+                       VerticalAlignment="Center">
+                
+                <Button x:Name="OpenTransferWindowButton"
+                        Content="Предать"
+                        FontSize="14"
+                        Padding="10,2,10,4"
+                        Click="OpenTransferWindowButtonClick"/>
             </WrapPanel>
 
         </Grid>

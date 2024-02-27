@@ -144,6 +144,7 @@
     </ApplicationDefinition>
     <Compile Include="Excel\ExcelHelper.cs" />
     <Compile Include="models\ComputerComponents.cs" />
+    <Compile Include="models\Departament.cs" />
     <Compile Include="models\Employee.cs" />
     <Compile Include="models\EquipmentsInfo.cs" />
     <Compile Include="models\GenEquipmentsAcc.cs" />

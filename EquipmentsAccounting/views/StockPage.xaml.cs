@@ -47,8 +47,10 @@ namespace EquipmentsAccounting.views
         {
             if (FilterTextBox.Text == null)
             {
-                equipmentDataTable = database.Query(String.Format(
-                @"SELECT * FROM equipmentsOfEmployee({0})", Singleton.EMPLOYEE.Id));
+                equipmentDataTable = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
+                                WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null)
+                                AND ""Статус"" = 'На складе'
+                                ORDER BY id", Singleton.MANAGER.Dep_id));
                 StockInfoDataGrid.DataContext = equipmentDataTable.DefaultView;
 
             }
@@ -84,6 +86,12 @@ namespace EquipmentsAccounting.views
                     StockInfoDataGrid.DataContext = equipmentDataTable.DefaultView;
                 }
             }
+        }
+
+        private void OpenTransferWindowButtonClick(object sender, RoutedEventArgs e)
+        {
+            StockTramsferWindow window = new StockTramsferWindow(this);
+            window.ShowDialog();
         }
     }
 }
