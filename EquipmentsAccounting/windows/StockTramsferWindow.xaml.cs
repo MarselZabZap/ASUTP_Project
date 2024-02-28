@@ -25,7 +25,7 @@ namespace EquipmentsAccounting.windows
     {
         StockPage stockPage;
         Database database;
-        List<Departament> departaments = new List<Departament>();
+        List<Departament> senderDepartaments, recevierDepartaments = new List<Departament>();
         int senderId, recevierId = -1;
         DataTable senderEquipmentsDataTable, recevierEquipmentsDataTabel;
 
@@ -52,10 +52,17 @@ namespace EquipmentsAccounting.windows
 
         private void InitSenderChoiceBox()
         {
-            departaments = database.getDepartaments();
-            for (int i = 0; i < departaments.Count; i++)
+            senderDepartaments = database.getDepartaments();
+            // Изначально ComboBox должен был предоставлять возможность свободного выбора отдела отправителя, но для этого нужно работать над правами супер-пользователя
+            // Пока что из списка отправителей дан только тот отдела, через который была осуществлена авторизация
+            for (int i = 0; i < senderDepartaments.Count; i++)
             {
-                SenderComboBox.Items.Add(departaments[i].name);
+                //SenderComboBox.Items.Add(senderDepartaments[i].name);
+
+                if (senderDepartaments[i].id == Singleton.MANAGER.Dep_id)
+                {
+                    SenderComboBox.Items.Add(senderDepartaments[i].name);
+                }
             }
         }
 
@@ -68,7 +75,7 @@ namespace EquipmentsAccounting.windows
                     SendersEquipmentDataGrid.DataContext = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
                                 WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null)
                                 AND ""Статус"" = 'На складе'
-                                ORDER BY id", Singleton.MANAGER.Dep_id)).DefaultView;
+                                ORDER BY id", senderId)).DefaultView;
 
                 }
                 else
@@ -151,12 +158,12 @@ namespace EquipmentsAccounting.windows
 
         private void SenderIsChange(object sender, SelectionChangedEventArgs e)
         {
-            for (int i = 0; i < departaments.Count; i++)
+            for (int i = 0; i < senderDepartaments.Count; i++)
             {
-                if (departaments[i].name.Equals(SenderComboBox.SelectedValue))
+                if (senderDepartaments[i].name.Equals(SenderComboBox.SelectedValue))
                 {
-                    String selctedName = departaments[i].name;
-                    senderId = departaments[i].id;
+                    String selctedName = senderDepartaments[i].name;
+                    senderId = senderDepartaments[i].id;
                     senderEquipmentsDataTable = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
                                 WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null)
                                 AND ""Статус"" = 'На складе'
@@ -164,13 +171,15 @@ namespace EquipmentsAccounting.windows
                     SendersEquipmentDataGrid.DataContext = senderEquipmentsDataTable.DefaultView;
 
                     recevierEquipmentsDataTabel.Rows.Clear();
+                    recevierId = -1;
 
                     RecevierComboBox.Items.Clear();
-                    for (int j = 0; j < departaments.Count; j++)
+                    for (int j = 0; j < senderDepartaments.Count; j++)
                     {
-                        if (!departaments[j].name.Equals(selctedName))
+                        if (!senderDepartaments[j].name.Equals(selctedName))
                         {
-                            RecevierComboBox.Items.Add(departaments[j].name);
+                            recevierDepartaments.Add(senderDepartaments[j]);
+                            RecevierComboBox.Items.Add(senderDepartaments[j].name);
                         }
                     }
 
@@ -183,12 +192,24 @@ namespace EquipmentsAccounting.windows
 
         private void RecevierIsChange(object sender, SelectionChangedEventArgs e)
         {
-
+            for (int i = 0; i < recevierDepartaments.Count; i++)
+            {
+                if (recevierDepartaments[i].name.Equals(RecevierComboBox.SelectedValue))
+                {
+                    recevierId = recevierDepartaments[i].id;
+                }
+            }
         }
 
         private void ClearRecevierTableClick(object sender, MouseButtonEventArgs e)
         {
+            recevierEquipmentsDataTabel.Rows.Clear();
+            senderEquipmentsDataTable = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
+                                WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null)
+                                AND ""Статус"" = 'На складе'
+                                ORDER BY id", senderId));
 
+            SendersEquipmentDataGrid.DataContext = senderEquipmentsDataTable.DefaultView;
         }
 
         private string MainQuery(string filterType, string filterText)
@@ -198,6 +219,35 @@ namespace EquipmentsAccounting.windows
                                     AND ""Статус"" = 'На складе' AND lower(""{1}"") LIKE lower('%{2}%')
                                 ORDER BY id", senderId, filterType, filterText);
         }
+
+        private void CancelButtonClick(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+
+        private void ApplyButtonClick(object sender, RoutedEventArgs e)
+        {
+            string id = null;
+            DataRow rowForRemove = null;
+            if (recevierEquipmentsDataTabel != null && RecevierComboBox.Items != null && SenderComboBox.Items != null && recevierId != -1)
+            {
+                int i = 0;
+                while (recevierEquipmentsDataTabel.Rows.Count > i)
+                {
+                    id = (RecevierEquipmentDataGrid.Columns[0].GetCellContent(RecevierEquipmentDataGrid.Items[0]) as TextBlock).Text;
+                    database.Query(String.Format(@"call stockTransfer({0}, {1});", Int16.Parse(id), recevierId));
+
+                    // Удаление строки в таблице
+                    rowForRemove = recevierEquipmentsDataTabel.Rows[0];
+                    recevierEquipmentsDataTabel.Rows.Remove(rowForRemove);
+                }
+                stockPage.StockInfoDataGrid.DataContext = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
+                                WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null)
+                                AND ""Статус"" = 'На складе'
+                                ORDER BY id", Singleton.MANAGER.Dep_id)).DefaultView;
+            }
+        }
+
         private DataColumn CreateColumn(string columnName, string caption)
         {
             DataColumn dataColumn = new DataColumn

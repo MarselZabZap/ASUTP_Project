@@ -142,7 +142,8 @@
                 HorizontalAlignment="Right"
                 FontSize="14"
                 Padding="15,5,15,5"
-                Margin="0,0,0,15"/>
+                Margin="0,0,0,15"
+                Click="ApplyButtonClick"/>
 
         <Button x:Name="CancelButton"
                 Grid.Row="1"
@@ -151,6 +152,7 @@
                 Content="Отмена"
                 FontSize="14"
                 Padding="15,5,15,5"
-                Margin="0,0,0,15"/>
+                Margin="0,0,0,15"
+                Click="CancelButtonClick"/>
     </Grid>
 </Window>
