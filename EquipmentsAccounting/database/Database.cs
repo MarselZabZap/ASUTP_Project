@@ -399,5 +399,28 @@ namespace EquipmentsAccounting.database
                 return departaments;
             }
         }
+
+        public List<StockEquipmentsInfo> GetStockEquipmentsInfo(int depId)
+        {
+            using (var conn = GetConnection())
+            {
+                string query = String.Format("SELECT \"Характеристики\", COUNT(\"Характеристики\") AS \"Количество\", (g.price*(COUNT(\"Характеристики\"))) AS \"Сумма\", g.price AS \"Цена\"\r\nFROM loc_eq_acc_info({0}) lec\r\nJOIN loc_eq_acc l ON l.id = lec.id\r\nJOIN gen_eq_acc g ON g.id = l.gen_eq_id \r\nWHERE \"Статус\" = 'На складе'\r\nGROUP BY \"Характеристики\", g.price", depId);
+
+                NpgsqlCommand cmd = new NpgsqlCommand(query, conn);
+                conn.Open();
+                NpgsqlDataReader reader = cmd.ExecuteReader();
+
+                List<StockEquipmentsInfo> equipments = new List<StockEquipmentsInfo>();
+                while (reader.Read())
+                {
+                    equipments.Add
+                        (
+                            new StockEquipmentsInfo(reader.GetString(0), reader.GetInt32(1), reader.GetInt32(2), reader.GetInt32(3))
+                        );
+                }
+
+                return equipments;
+            }
+        }
     }
 }

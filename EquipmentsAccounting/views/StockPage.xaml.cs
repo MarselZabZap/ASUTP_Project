@@ -1,4 +1,5 @@
 ﻿using EquipmentsAccounting.database;
+using EquipmentsAccounting.Excel;
 using EquipmentsAccounting.windows;
 using System;
 using System.Collections.Generic;
@@ -26,12 +27,14 @@ namespace EquipmentsAccounting.views
 
         Database database;
         DataTable equipmentDataTable;
+        ExcelHelper excelHelper;
 
         public StockPage()
         {
             InitializeComponent();
 
             database = new Database();
+            excelHelper = new ExcelHelper();
         }
 
         private void Page_Loaded(object sender, RoutedEventArgs e)
@@ -92,6 +95,32 @@ namespace EquipmentsAccounting.views
         {
             StockTramsferWindow window = new StockTramsferWindow(this);
             window.ShowDialog();
+        }
+
+        private void CreateStockReportMouseClick(object sender, MouseButtonEventArgs e)
+        {
+            try
+            {
+                excelHelper.CreateStockReport();
+
+                string messageBoxText = "Документ создан";
+                string messageBoxTitle = "Выполнено";
+                MessageBoxButton button = MessageBoxButton.OK;
+                MessageBoxImage icon = MessageBoxImage.None;
+                MessageBoxResult result;
+
+                result = MessageBox.Show(messageBoxText, messageBoxTitle, button, icon, MessageBoxResult.Yes);
+            }
+            catch (Exception ex)
+            {
+                string messageBoxText = ex.Message;
+                string messageBoxTitle = "Ошибка";
+                MessageBoxButton button = MessageBoxButton.OK;
+                MessageBoxImage icon = MessageBoxImage.Warning;
+                MessageBoxResult result;
+
+                result = MessageBox.Show(messageBoxText, messageBoxTitle, button, icon, MessageBoxResult.Yes);
+            }
         }
     }
 }

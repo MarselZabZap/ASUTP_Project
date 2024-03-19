@@ -150,6 +150,7 @@
     <Compile Include="models\GenEquipmentsAcc.cs" />
     <Compile Include="models\IssueAct.cs" />
     <Compile Include="models\Provider.cs" />
+    <Compile Include="models\StockEquipmentsInfo.cs" />
     <Compile Include="models\Type.cs" />
     <Compile Include="Singleton\Singleton.cs" />
     <Compile Include="views\AddComputerPage.xaml.cs">

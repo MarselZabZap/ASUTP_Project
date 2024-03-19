@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Windows.Controls;
 using System.Data;
 using OfficeOpenXml;
+using System.Net;
 
 namespace EquipmentsAccounting.Excel
 {
@@ -589,6 +590,104 @@ namespace EquipmentsAccounting.Excel
             // Сохранение и закрытие документа------------------------------
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
             string filePath = Path.Combine(desktopPath, "Передача_Тест.xlsx");
+
+            workbook.SaveAs(filePath);
+            workbook.Close();
+            excelApp.Quit();
+        }
+
+        public void CreateStockReport()
+        {
+            // Открытие
+            Application excelApp = new Application();
+            Workbook workbook = excelApp.Workbooks.Open("E:\\!АСУТП Проект!\\PROJECT\\excel шаблоны\\Отчёты\\ТМЦ на складах.xlsx");
+            Worksheet worksheet = workbook.Worksheets[1];
+
+            Database db = new Database();
+            List<Departament> departments = db.getDepartaments();
+            int endCount = 0;
+            int endSum = 0;
+            int endPrice = 0;
+
+
+            DateTime currentDate = DateTime.Today;
+            worksheet.Cells[2, 1] = String.Format("Остатки ТМЦ (на складах) на {0} г.", currentDate.ToString("dd MMMM yyyy"));
+
+            int row = 8;
+            for (int i = 0; i < departments.Count; i++)
+            {
+                // Копирование и вставка
+                Range copyRange = worksheet.Range["A8:F8"];
+                copyRange.Copy();
+                Range pasteRange = worksheet.Range["A" + row];
+                pasteRange.PasteSpecial(XlPasteType.xlPasteAll);
+
+                // Редактирование заголовков
+                worksheet.Range["A" + row + ":B" + row].Merge(System.Type.Missing);
+                worksheet.get_Range("A" + row, "B" + row).Cells.HorizontalAlignment = XlHAlign.xlHAlignLeft;
+                worksheet.Range["D" + row + ":E" + row].Merge(System.Type.Missing);
+                worksheet.get_Range("D" + row, "E" + row).Cells.HorizontalAlignment = XlHAlign.xlHAlignRight;
+
+                int id = departments[i].id;
+
+                List<StockEquipmentsInfo> equipments = db.GetStockEquipmentsInfo(id);
+
+
+                int count = 0;
+                int sum = 0;
+                int price = 0;
+                for (int j = 0; j < equipments.Count; j++)
+                {
+                    count += equipments[j].Count;
+                    sum += equipments[j].Sum;
+                    price += equipments[j].Price;
+                }
+                endCount += count;
+                endSum += sum;
+                endPrice += price;
+
+                worksheet.Cells[row, 1] = departments[i].name;
+                worksheet.Cells[row, 3] = count;
+                worksheet.Cells[row, 4] = sum;
+                worksheet.Cells[row, 6] = price;
+
+                row++;
+
+                for (int k = 0; k < equipments.Count; k++)
+                {
+                    worksheet.Cells[row, 1] = equipments[k].Characteristics;
+                    worksheet.Cells[row, 3] = equipments[k].Count;
+                    worksheet.Cells[row, 4] = equipments[k].Sum;
+                    worksheet.Cells[row, 6] = equipments[k].Price;
+
+                    row++;
+                }
+            }
+
+            // Копирование и вставка
+            Range copyRangeEnd = worksheet.Range["A8:F8"];
+            copyRangeEnd.Copy();
+            Range pasteRangeEnd = worksheet.Range["A" + row];
+            pasteRangeEnd.PasteSpecial(XlPasteType.xlPasteAll);
+
+            // Редактирование заголовков
+            worksheet.Range["A" + row + ":B" + row].Merge(System.Type.Missing);
+            worksheet.get_Range("A" + row, "B" + row).Cells.HorizontalAlignment = XlHAlign.xlHAlignLeft;
+            worksheet.Range["D" + row + ":E" + row].Merge(System.Type.Missing);
+            worksheet.get_Range("D" + row, "E" + row).Cells.HorizontalAlignment = XlHAlign.xlHAlignRight;
+
+            worksheet.Cells[row, 1] = "Итого";
+            worksheet.Cells[row, 3] = endCount;
+            worksheet.Cells[row, 4] = endSum;
+            worksheet.Cells[row, 6] = endPrice;
+
+            // Усановка жирного шрифта
+            worksheet.get_Range("A" + row, "F" + row).Font.Bold = true;
+
+
+
+            string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+            string filePath = Path.Combine(desktopPath, "Склад_тест.xlsx");
 
             workbook.SaveAs(filePath);
             workbook.Close();

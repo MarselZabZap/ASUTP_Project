@@ -73,7 +73,21 @@
                         Content="Предать"
                         FontSize="14"
                         Padding="10,2,10,4"
+                        Height="25"
                         Click="OpenTransferWindowButtonClick"/>
+
+                <Border BorderBrush="Black"
+                        BorderThickness="1"
+                        Background="#dbdbdb"
+                        Width="36"
+                        Height="36"
+                        Margin="20,0,0,0"
+                        MouseDown="CreateStockReportMouseClick"
+                        Cursor="Hand">
+                    
+                    <Image Source="E:\!АСУТП Проект!\ASUTP_Project\img\doc_icon.png"
+                           Width="30"/>
+                </Border>
             </WrapPanel>
 
         </Grid>

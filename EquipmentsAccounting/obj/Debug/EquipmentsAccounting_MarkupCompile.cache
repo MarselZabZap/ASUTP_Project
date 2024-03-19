@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\obj\Debug\
+E:\!АСУТП Проект!\ASUTP_Project\EquipmentsAccounting\obj\Debug\
 EquipmentsAccounting
 none
 false
 DEBUG;TRACE
-C:\Users\Admin\Desktop\ASUTP_Project\EquipmentsAccounting\App.xaml
+E:\!АСУТП Проект!\ASUTP_Project\EquipmentsAccounting\App.xaml
 19361779166
 
-35-1043626406
-44181298224
+36-1502319065
+44-1365256528
 views\AddComputerPage.xaml;views\AddMonitorOrPronterPage.xaml;views\AddOtherEqupmentsPage.xaml;views\DataPage.xaml;views\EmployeesPage.xaml;views\EquipmentsMaintenancePage.xaml;views\StockPage.xaml;windows\AddEquipmentWindow.xaml;windows\CalendarRangeWindow.xaml;windows\EditingEquipment.xaml;windows\EquipmentMaintenanceWindow.xaml;windows\HandOverWindow.xaml;windows\IssueEquipmentWindow.xaml;windows\LoginWindow.xaml;windows\MainWindow.xaml;windows\ReportSettingWindow.xaml;windows\StockTramsferWindow.xaml;windows\WriteOffEquipmentWindow.xaml;windows\WriteOfFromEmployeeWindow.xaml;
 
 False
