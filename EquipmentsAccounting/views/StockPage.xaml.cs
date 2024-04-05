@@ -1,5 +1,6 @@
 ﻿using EquipmentsAccounting.database;
 using EquipmentsAccounting.Excel;
+using EquipmentsAccounting.models;
 using EquipmentsAccounting.windows;
 using System;
 using System.Collections.Generic;
@@ -28,6 +29,8 @@ namespace EquipmentsAccounting.views
         Database database;
         DataTable equipmentDataTable;
         ExcelHelper excelHelper;
+        List<Departament> departaments = new List<Departament>();
+        int depId;
 
         public StockPage()
         {
@@ -35,14 +38,16 @@ namespace EquipmentsAccounting.views
 
             database = new Database();
             excelHelper = new ExcelHelper();
+            InitSenderChoiceBox();
         }
 
         private void Page_Loaded(object sender, RoutedEventArgs e)
         {
+            depId = Singleton.MANAGER.Dep_id;
             equipmentDataTable = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
                                 WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null)
                                 AND ""Статус"" = 'На складе'
-                                ORDER BY id", Singleton.MANAGER.Dep_id));
+                                ORDER BY id", depId));
             StockInfoDataGrid.DataContext = equipmentDataTable.DefaultView;
         }
 
@@ -53,7 +58,7 @@ namespace EquipmentsAccounting.views
                 equipmentDataTable = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
                                 WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null)
                                 AND ""Статус"" = 'На складе'
-                                ORDER BY id", Singleton.MANAGER.Dep_id));
+                                ORDER BY id", depId));
                 StockInfoDataGrid.DataContext = equipmentDataTable.DefaultView;
 
             }
@@ -67,7 +72,7 @@ namespace EquipmentsAccounting.views
                                 WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null) 
                                     AND ""Статус"" = 'На складе'
                                     AND lower(""{1}"") LIKE lower('%{2}%')
-                                ORDER BY id", Singleton.MANAGER.Dep_id, filterList[0], FilterTextBox.Text));
+                                ORDER BY id", depId, filterList[0], FilterTextBox.Text));
                     StockInfoDataGrid.DataContext = equipmentDataTable.DefaultView;
                 }
                 else if ((bool)CharsRadioButton.IsChecked)
@@ -76,7 +81,7 @@ namespace EquipmentsAccounting.views
                                 WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null) 
                                     AND ""Статус"" = 'На складе'
                                     AND lower(""{1}"") LIKE lower('%{2}%')
-                                ORDER BY id", Singleton.MANAGER.Dep_id, filterList[1], FilterTextBox.Text));
+                                ORDER BY id", depId, filterList[1], FilterTextBox.Text));
                     StockInfoDataGrid.DataContext = equipmentDataTable.DefaultView;
                 }
                 else
@@ -85,7 +90,7 @@ namespace EquipmentsAccounting.views
                                 WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null) 
                                     AND ""Статус"" = 'На складе'
                                     AND lower(""{1}"") LIKE lower('%{2}%')
-                                ORDER BY id", Singleton.MANAGER.Dep_id, filterList[2], FilterTextBox.Text));
+                                ORDER BY id", depId, filterList[2], FilterTextBox.Text));
                     StockInfoDataGrid.DataContext = equipmentDataTable.DefaultView;
                 }
             }
@@ -121,6 +126,33 @@ namespace EquipmentsAccounting.views
 
                 result = MessageBox.Show(messageBoxText, messageBoxTitle, button, icon, MessageBoxResult.Yes);
             }
+        }
+        private void InitSenderChoiceBox()
+        {
+            departaments = database.getDepartaments();
+
+            for (int i = 0; i < departaments.Count; i++)
+            {
+                StocksComboBox.Items.Add(departaments[i].name);
+
+            }
+        }
+
+        private void StocksComboBoxIsChange(object sender, SelectionChangedEventArgs e)
+        {
+            for (int i = 0; i < departaments.Count; i++)
+            {
+                if (departaments[i].name.Equals(StocksComboBox.SelectedValue))
+                {
+                    depId = departaments[i].id;
+                    break;
+                }
+            }
+            equipmentDataTable = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
+                                WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null)
+                                AND ""Статус"" = 'На складе'
+                                ORDER BY id", depId));
+            StockInfoDataGrid.DataContext = equipmentDataTable.DefaultView;
         }
     }
 }

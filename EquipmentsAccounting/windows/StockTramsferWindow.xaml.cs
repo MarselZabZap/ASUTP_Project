@@ -72,10 +72,11 @@ namespace EquipmentsAccounting.windows
             {
                 if (FilterTextBox.Text == null)
                 {
-                    SendersEquipmentDataGrid.DataContext = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
+                    senderEquipmentsDataTable = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
                                 WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null)
                                 AND ""Статус"" = 'На складе'
-                                ORDER BY id", senderId)).DefaultView;
+                                ORDER BY id", senderId));
+                    SendersEquipmentDataGrid.DataContext = senderEquipmentsDataTable.DefaultView;
 
                 }
                 else
@@ -84,16 +85,18 @@ namespace EquipmentsAccounting.windows
 
                     if ((bool)TypeRadioButton.IsChecked)
                     {
-                        SendersEquipmentDataGrid.DataContext = database.Query(MainQuery(filterList[0], FilterTextBox.Text)).DefaultView;
+                        senderEquipmentsDataTable = database.Query(MainQuery(filterList[0], FilterTextBox.Text));
                     }
                     else if ((bool)CharsRadioButton.IsChecked)
                     {
-                        SendersEquipmentDataGrid.DataContext = database.Query(MainQuery(filterList[1], FilterTextBox.Text)).DefaultView;
+                        senderEquipmentsDataTable = database.Query(MainQuery(filterList[1], FilterTextBox.Text));
                     }
                     else
                     {
-                        SendersEquipmentDataGrid.DataContext = database.Query(MainQuery(filterList[2], FilterTextBox.Text)).DefaultView;
+                        senderEquipmentsDataTable = database.Query(MainQuery(filterList[2], FilterTextBox.Text));
                     }
+
+                    SendersEquipmentDataGrid.DataContext = senderEquipmentsDataTable.DefaultView;
                 }
             }
         }
@@ -162,7 +165,7 @@ namespace EquipmentsAccounting.windows
             {
                 if (senderDepartaments[i].name.Equals(SenderComboBox.SelectedValue))
                 {
-                    String selctedName = senderDepartaments[i].name;
+                    string selctedName = senderDepartaments[i].name;
                     senderId = senderDepartaments[i].id;
                     senderEquipmentsDataTable = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
                                 WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null)
@@ -204,12 +207,45 @@ namespace EquipmentsAccounting.windows
         private void ClearRecevierTableClick(object sender, MouseButtonEventArgs e)
         {
             recevierEquipmentsDataTabel.Rows.Clear();
-            senderEquipmentsDataTable = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
+
+            /*senderEquipmentsDataTable = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
                                 WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null)
                                 AND ""Статус"" = 'На складе'
                                 ORDER BY id", senderId));
 
-            SendersEquipmentDataGrid.DataContext = senderEquipmentsDataTable.DefaultView;
+            SendersEquipmentDataGrid.DataContext = senderEquipmentsDataTable.DefaultView;*/
+
+            if (senderId != -1)
+            {
+                if (FilterTextBox.Text == null)
+                {
+                    senderEquipmentsDataTable = database.Query(String.Format(@"SELECT * FROM loc_eq_acc_info({0}) eq
+                                WHERE NOT EXISTS (SELECT 1 FROM eq_expl expl WHERE expl.eq_id = eq.id AND expl.passed is null)
+                                AND ""Статус"" = 'На складе'
+                                ORDER BY id", senderId));
+                    SendersEquipmentDataGrid.DataContext = senderEquipmentsDataTable.DefaultView;
+
+                }
+                else
+                {
+                    string[] filterList = new string[] { "Тип", "Характеристики", "Серийный номер" };
+
+                    if ((bool)TypeRadioButton.IsChecked)
+                    {
+                        senderEquipmentsDataTable = database.Query(MainQuery(filterList[0], FilterTextBox.Text));
+                    }
+                    else if ((bool)CharsRadioButton.IsChecked)
+                    {
+                        senderEquipmentsDataTable = database.Query(MainQuery(filterList[1], FilterTextBox.Text));
+                    }
+                    else
+                    {
+                        senderEquipmentsDataTable = database.Query(MainQuery(filterList[2], FilterTextBox.Text));
+                    }
+
+                    SendersEquipmentDataGrid.DataContext = senderEquipmentsDataTable.DefaultView;
+                }
+            }
         }
 
         private string MainQuery(string filterType, string filterText)

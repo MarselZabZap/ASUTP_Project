@@ -34,7 +34,7 @@
                        VerticalAlignment="Center">
 
                 <Label Content="Фильтрация"
-                       Margin="5"
+                       Margin="5,0,0,0"
                        FontSize="14"/>
 
                 <TextBox x:Name="FilterTextBox"
@@ -42,6 +42,15 @@
                          Margin="5, 0, 5, 5"
                          FontSize="14"
                          KeyUp="EquipmentsDataGridFiltartion"/>
+
+                <ComboBox x:Name="StocksComboBox"
+                          FontSize="14"
+                          Width="250"
+                          Height="25"
+                          HorizontalAlignment="Left"
+                          Margin="5,0,5,5"
+                          VerticalContentAlignment="Center"
+                          SelectionChanged="StocksComboBoxIsChange"/>
 
             </WrapPanel>
 
